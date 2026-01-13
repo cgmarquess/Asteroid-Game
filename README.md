@@ -42,4 +42,5 @@ Diferente de jogos feitos em engines comerciais (Unity/Godot), toda a lógica f�
 2.  Abra o projeto na sua IDE.
 3.  Localize a classe principal, adicione as dependências e configure o metodo de execução.
 4.  Execute o método `main`.
+
 Desenvolvido por [Gabriel Marques] - [[LinkedIn](https://www.linkedin.com/in/cgmarquess/)]
