@@ -7,7 +7,7 @@
 
 # 2D Space Shooter Engine (Asteroids Clone)
 
-Um motor de jogo 2D de alta performance desenvolvido em **Java** puro, recriando a mecânica clássica do "Asteroids".
+Um motor de jogo 2D de alta performance desenvolvido em **Java puro**, recriando a mecânica clássica do "Asteroids".
 
 O objetivo deste projeto não foi apenas criar um jogo, mas **implementar um sistema de física vetorial do zero**, estudando conceitos fundamentais de computação gráfica, álgebra linear e gerenciamento de memória em aplicações de tempo real.
 
