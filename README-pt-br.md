@@ -1,8 +1,8 @@
 <div align="center">
   
-  [![English](https://img.shields.io/badge/English-blue)](README.md)
   [![Português](https://img.shields.io/badge/Português-green)](README-pt-br.md)
-
+  [![English](https://img.shields.io/badge/English-blue)](README.md)
+  
 </div>
 
 # 2D Space Shooter Engine (Asteroids Clone)
