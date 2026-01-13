@@ -32,7 +32,7 @@ Diferente de jogos feitos em engines comerciais (Unity/Godot), toda a lógica f�
 
 ### Pré-requisitos
 * Java JDK 21 instalado.
-* IDE (IntelliJ IDEA ou Eclipse) configurada com JavaFX .
+* IDE (IntelliJ IDEA ou Eclipse) configurada com JavaFX.
 
 ### Passos
 1.  Clone o repositório:
@@ -40,7 +40,7 @@ Diferente de jogos feitos em engines comerciais (Unity/Godot), toda a lógica f�
     git clone https://github.com/cgmarquess/Asteroid-Game.git
     ```
 2.  Abra o projeto na sua IDE.
-3.  Localize a classe principal, adicione as dependências e configure o metodo de execução.
+3.  Localize a classe principal e configure o metodo de execução.
 4.  Execute o método `main`.
 
 Desenvolvido por [Gabriel Marques] - [[LinkedIn](https://www.linkedin.com/in/cgmarquess/)]
