@@ -50,4 +50,4 @@ Unlike games built with commercial engines (Unity/Godot), all physics and render
 3.  Locate the main class and configure the run configuration.
 4.  Run the `main` method.
 
-Developed by [Gabriel Marques] - [[LinkedIn](https://www.linkedin.com/in/cgmarquess/)]
+Developed by [Gabriel Marques] - [[LinkedIn][(https://www.linkedin.com/in/cgmarquess/?locale=en_US)]
