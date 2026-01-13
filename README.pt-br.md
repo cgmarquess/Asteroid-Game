@@ -1,3 +1,10 @@
+<div align="center">
+  
+  [![Português](https://img.shields.io/badge/Lang-Português-green)](README.pt-br.md)
+  [![English](https://img.shields.io/badge/Lang-English-blue)](README.md)
+
+</div>
+
 # 2D Space Shooter Engine (Asteroids Clone)
 
 Um motor de jogo 2D de alta performance desenvolvido em **Java** puro, recriando a mecânica clássica do "Asteroids".
