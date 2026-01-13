@@ -44,9 +44,10 @@ Unlike games built with commercial engines (Unity/Godot), all physics and render
 ### Steps
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/cgmarquess/Asteroid-Game.git](https://github.com/cgmarquess/Asteroid-Game.git)
+    git clone https://github.com/cgmarquess/Asteroid-Game.git
     ```
 2.  Open the project in your IDE.
 3.  Locate the main class and configure the run configuration.
 4.  Run the `main` method.
+
 Developed by [Gabriel Marques] - [[LinkedIn](https://www.linkedin.com/in/cgmarquess/)]
